@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucadng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-de-angelis/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucadng@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LucaDeAng)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Lucas9001)
@@ -18,8 +18,8 @@
 I'm a **GenAI Specialist & AI Consultant** based in Italy, bridging the gap between cutting-edge AI research and real-world enterprise impact.
 
 - 🏢 **GenAI Specialist** @ [Poste Italiane](https://www.poste.it) — leading the evolution of conversational AI systems at national scale
-- 🚀 **Co-founder** @ The Right Side — web agency & AI studio
-- 🎓 **MBA** @ LUISS Guido Carli, Rome
+- 🚀 **Co-founder** @ The Right Side (2024–2025) — web agency & AI studio
+- 🎓 **Master's degree, Business Administration** @ LUISS Guido Carli, Rome (2016)
 - 🏛️ Former consultant @ Accenture Song · Capgemini · KPMG
 - ✍️ Writing about AI, GenAI strategy and the future of intelligent automation
 
@@ -53,7 +53,23 @@ I'm a **GenAI Specialist & AI Consultant** based in Italy, bridging the gap betw
 
 ---
 
-## 🚀 Featured Projects
+## 🔬 Open work · [genai4business.com](https://genai4business.com)
+
+A field log of what breaks between demo and production. Fictional customer, synthetic data, MIT code, CC BY 4.0 data.
+
+| Repo | What it is |
+|---|---|
+| [deployment-in-a-box](https://github.com/LucaDeAng/deployment-in-a-box) | Phone-agent deployment harness, text-only for now: 165 simulated calls with Claude Opus 5.5; 26 of the 42 failed calls were right answers the judge missed |
+| [transcript-regression-kit](https://github.com/LucaDeAng/transcript-regression-kit) | Annotated conversations → regression tests and a per-tag CI gate |
+| [ai-to-ai-call-lab](https://github.com/LucaDeAng/ai-to-ai-call-lab) | A customer's AI agent phones a business's voice agent: a simulated handshake with a delegated, scoped credential |
+| [spoken-entities-it](https://github.com/LucaDeAng/spoken-entities-it) | How often an Italian voice agent acts on a misheard code or IBAN |
+| [agent-business-case](https://github.com/LucaDeAng/agent-business-case) | Vendor-neutral business case: containment ramp, repeat contacts, per-minute vs per-resolution pricing |
+| [agent-platform-benchmark](https://github.com/LucaDeAng/agent-platform-benchmark) | What public docs say about 17 AI agent platforms on 24 criteria; ranges, no ranking |
+| [eu-cx-genai-benchmark](https://github.com/LucaDeAng/eu-cx-genai-benchmark) | How visible GenAI is in the customer service of 61 large European companies |
+
+---
+
+## 🗂️ Earlier projects
 
 ### 🤖 [cyber_risk_agent](https://github.com/LucaDeAng/cyber_risk_agent)
 > AI-powered agent for cyber risk assessment with multi-persona conversational capabilities
@@ -95,7 +111,7 @@ POC for an AI-augmented financial tool that automates payment reminders and cash
 
 Open to collaborating on GenAI projects, AI consulting, or just talking about LLMs and agentic systems.
 
-📬 lucadng@gmail.com · [LinkedIn](https://linkedin.com/in/lucadng)
+📬 lucadng@gmail.com · [LinkedIn](https://www.linkedin.com/in/luca-de-angelis/)
 
 ---
 
